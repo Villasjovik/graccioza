@@ -1,0 +1,12 @@
+{
+  "svgPath": "/Users/lucasm4max/Desktop/Claude/operational/projekt/villa-sjovik/pitchar/graccioza/graccioza.svg",
+  "svgFilename": "graccioza.svg",
+  "brandColor": "#000000",
+  "brandColorHex": "0x000000",
+  "heroMaterialColor": "#F2EDE4",
+  "dominantDetected": "#000000",
+  "isLightLogo": false,
+  "material": "metal",
+  "note": "Graccioza wordmark is a monochrome black serif logotype (official Sorema/Graccioza brand vector). The source wiki SVG carried a nested <g transform> with off-canvas absolute coordinates that Three.js SVGLoader cannot resolve, so it was rendered to a high-res PNG and re-traced to a flat single-path SVG (graccioza-trace.mjs) before extrusion. On the dark-green hero bg the black reads dark-on-dark, so the 3D hero logo is rendered in cream #F2EDE4 (data-material=metal data-color=#F2EDE4) per the Avantopool/Weltevree/Ajax dark-logo precedent — Villa Sjövik logo always gold. Mocha accent #A47864 available as alternate brand tint if wanted later.",
+  "generatedAt": "2026-06-08T00:00:00.000Z"
+}
